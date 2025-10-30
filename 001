@@ -1,0 +1,3 @@
+cd /home/ubuntu/MenuPlanner
+git remote add origin https://github.com/Spider2025/menuplanner.git
+git push -u origin master
